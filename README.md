@@ -1,2 +1,1 @@
-# lthwvagrant
-Learn the Hard Way - Vagrant
+# Learn the Hard Way - Vagrant
